@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on 曉彤的個人網站</title>
+    <link>http://redclould.github.io/pt-zh-tw/categories/development/</link>
+    <description>Recent content in Development on 曉彤的個人網站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://redclould.github.io/pt-zh-tw/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第六屆世界學生混雙賽-亞軍</title>
+      <link>http://redclould.github.io/pt-zh-tw/posts/hugo-coder-wiki/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redclould.github.io/pt-zh-tw/posts/hugo-coder-wiki/</guid>
+      <description> 官方網站    http://www.pairgo.or.jp/amateur/30th/worldstudents/index_e.php
+賽會簡介    第六屆世界學生配對賽，邀請32位選手(15對大學生和1對高中生組合)來自11個國家，於12月7日至8日在東京舉行，由日本Pair Go協會舉辦的國際性混雙圍棋賽事。
+賽程大綱     比賽名稱: 第六屆世界學生配對賽。 比賽日期: 2019年12月7日至8日。 參賽選手：32位選手(15對大學生和1對高中生組合)來自11個國家。 主辦單位: 世界混雙圍棋協會(World Pair Go Association)、國際圍棋聯盟(International Go Federation)、日本圍棋聯盟(Japan Go Federation)。  比賽結果     獎狀     亞軍(準優勝)   </description>
+    </item>
+    
+  </channel>
+</rss>
