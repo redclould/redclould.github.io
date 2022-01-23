@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Script on chantal website</title>
+    <link>http://redclould.github.io/tags/script/</link>
+    <description>Recent content in Script on chantal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://redclould.github.io/tags/script/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>7th Annual Innovation Game Design Competition - Best Game Script Award</title>
+      <link>http://redclould.github.io/posts/game/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://redclould.github.io/posts/game/</guid>
+      <description>Official Website    https://gamecompetition.org/
+Championship outline     Name: 7th Annual Innovation Game Design Competition Organizer: Internatinal Games System Cooperation: NTHU / NTU / NCCU / NTUST Date: 22 January 2022 Venue: National Taiwan University of Science and Technology (Taipei, Taiwan) Rules: Unity2D, Unity3D  Final Result     The PTSD - Best Game Script Award   Certificate     </description>
+    </item>
+    
+  </channel>
+</rss>

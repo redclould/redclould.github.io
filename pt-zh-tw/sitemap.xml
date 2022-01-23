@@ -2,6 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://redclould.github.io/pt-zh-tw/posts/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://redclould.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-zh-tw"
+                href="http://redclould.github.io/pt-zh-tw/posts/"
+                />
+  </url><url>
+    <loc>http://redclould.github.io/pt-zh-tw/tags/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://redclould.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-zh-tw"
+                href="http://redclould.github.io/pt-zh-tw/tags/"
+                />
+  </url><url>
+    <loc>http://redclould.github.io/pt-zh-tw/tags/unity3d/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://redclould.github.io/tags/unity3d/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-zh-tw"
+                href="http://redclould.github.io/pt-zh-tw/tags/unity3d/"
+                />
+  </url><url>
+    <loc>http://redclould.github.io/pt-zh-tw/tags/%E5%8A%87%E6%9C%AC/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://redclould.github.io/pt-zh-tw/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://redclould.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-zh-tw"
+                href="http://redclould.github.io/pt-zh-tw/"
+                />
+  </url><url>
+    <loc>http://redclould.github.io/pt-zh-tw/posts/game/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://redclould.github.io/posts/game/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-zh-tw"
+                href="http://redclould.github.io/pt-zh-tw/posts/game/"
+                />
+  </url><url>
+    <loc>http://redclould.github.io/pt-zh-tw/tags/%E8%99%9B%E6%93%AC%E5%AF%A6%E5%A2%83/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://redclould.github.io/pt-zh-tw/tags/%E9%81%8A%E6%88%B2/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://redclould.github.io/pt-zh-tw/tags/%E9%96%8B%E7%99%BC/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://redclould.github.io/pt-zh-tw/about/</loc>
     <lastmod>2021-09-19T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -26,45 +103,6 @@
                 rel="alternate"
                 hreflang="pt-zh-tw"
                 href="http://redclould.github.io/pt-zh-tw/tags/nthu/"
-                />
-  </url><url>
-    <loc>http://redclould.github.io/pt-zh-tw/posts/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://redclould.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-zh-tw"
-                href="http://redclould.github.io/pt-zh-tw/posts/"
-                />
-  </url><url>
-    <loc>http://redclould.github.io/pt-zh-tw/tags/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://redclould.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-zh-tw"
-                href="http://redclould.github.io/pt-zh-tw/tags/"
-                />
-  </url><url>
-    <loc>http://redclould.github.io/pt-zh-tw/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://redclould.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-zh-tw"
-                href="http://redclould.github.io/pt-zh-tw/"
                 />
   </url><url>
     <loc>http://redclould.github.io/pt-zh-tw/posts/nthuaward/</loc>
